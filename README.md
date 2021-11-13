@@ -1,6 +1,6 @@
 # blog
 # blog-website
-This is an clone to twitter but with a twist 
+This is an clone to reddit but with a twist 
 
 Before Running the code make sure to perform the following steps 
 
@@ -19,3 +19,8 @@ python manage.py startapp blog
 Requirements
 Install crispy forms 
 Install pillow libraries
+python version 3.8 and above
+django version 3.2.7 and above 
+Html5
+css3
+bootstrap4 
