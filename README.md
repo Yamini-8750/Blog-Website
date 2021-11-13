@@ -17,10 +17,16 @@ Start the app
 python manage.py startapp blog
 
 Requirements
+
 Install crispy forms 
 Install pillow libraries
+
 python version 3.8 and above
+
 django version 3.2.7 and above 
+
 Html5
+
 css3
+
 bootstrap4 
